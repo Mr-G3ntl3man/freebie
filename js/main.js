@@ -1,0 +1,1 @@
+"use strict";var modal=new GraphModal,slider=document.querySelector(".swiper-container"),swiper=new Swiper(slider,{slidesPerView:1,loop:!0,autoHeight:!0,autoplay:{delay:2e3},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});AOS.init({startEvent:"DOMContentLoaded"}),AOS.refresh();
